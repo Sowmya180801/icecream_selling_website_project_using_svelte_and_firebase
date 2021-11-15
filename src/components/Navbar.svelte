@@ -1,7 +1,7 @@
 
 <p>Delicious Treat🍦</p>
 
-<a href='/login'><button>Login</button></a>
+<a href='/login'><button>Login -></button></a>
 
 
 <style>
